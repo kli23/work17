@@ -12,3 +12,4 @@ clean:
 	rm *.o
 	rm writer
 	rm control
+	rm telephone.txt
